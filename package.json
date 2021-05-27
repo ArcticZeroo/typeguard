@@ -1,0 +1,14 @@
+{
+  "name": "@arcticzeroo/typeguard",
+  "version": "1.0.0",
+  "description": "A collection of TypeScript typeguards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spencer@frozor.io",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
